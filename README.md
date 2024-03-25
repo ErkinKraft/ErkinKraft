@@ -20,7 +20,7 @@
 
 Сайт Сбербанка: [Ссылка](https://www.sberegaem-vmeste.ru/publications/sber-otkril-blagotvoritelnii-sbor-i-goryachuyu-liniyu-dlya-pomoschi-postradavshim-v-terakte)
 
-P.S. Подробнее о лицензировании ПО можно найти в репозитории "About License".
+P.S. Подробнее о лицензировании ПО можно найти в репозитории "[About License](https://github.com/ErkinKraft/About-License)".
 
 
 
