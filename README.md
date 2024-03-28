@@ -2,12 +2,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009CF7&random=false&width=435&lines=Create+new+SoftWare+for+you" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkinkraft&label=Profile%20views&color=0e75b6&style=flat" alt="erkinkraft" /> </p>
+<h3 align="left">Connect with me:</h3>
 
 - 🔭 I’m currently working on **Core 0.4**
 
 - 📫 How to reach me **erkinkraft@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
