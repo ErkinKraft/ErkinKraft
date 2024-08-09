@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkinkraft&label=Profile%20views&color=0e75b6&style=flat" alt="erkinkraft" /> </p>
 <h3 align="left">Connect with me:</h3>
 
-- 🔭 I’m currently working on **Core 0.5**
+- 🔭 I’m currently working on **Improving yourself**
 
 - 📫 How to reach me **erkinkraft@gmail.com**
 
