@@ -8,6 +8,9 @@
 
 - 📫 How to reach me **erkinkraft@gmail.com**
 
+<h3 align="left">Sign the deposit:</h3>
+
+[Click](https://docs.google.com/forms/d/e/1FAIpQLSf9jBbxnKX9zHI9EelKAidKd9Cs7qi2pPd1VNQmv5A-ugWkYg/viewform?usp=sf_link)
 
 <p align="left">
 </p>
